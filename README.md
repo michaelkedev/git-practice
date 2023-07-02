@@ -2,3 +2,5 @@ Hello git!
 
 This is a new feature added by dev branch.
 master 1
+
+dev2
